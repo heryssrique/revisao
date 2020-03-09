@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.2"
+  },
+  "name": "package.json",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts" : {
+      "start" : "nodemon index.js"
+  },
+  "repository": "https://github.com/heryssrique/revisao.git",
+  "author": "heryssrique <hhsjunior@gmail.com>",
+  "license": "MIT"
+}
